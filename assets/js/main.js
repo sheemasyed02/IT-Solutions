@@ -212,7 +212,7 @@
 
 // Hero Section
 document.addEventListener('DOMContentLoaded', function() {
-  const text = "Technomate IT-Solutions.";
+  const text = "(Company Name.)";
   const typingText = document.getElementById('typing-text');
   let index = 0;
 
