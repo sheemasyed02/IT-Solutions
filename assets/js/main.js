@@ -220,7 +220,6 @@ document.addEventListener('DOMContentLoaded', function() {
           setTimeout(type, 150); // Typing speed
       }
       
-      
       else {
           setTimeout(() => {
               typingText.textContent = '';
