@@ -376,7 +376,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Footer
 document.addEventListener('DOMContentLoaded', function() {
-  // Footer service links functionality similar to hero section
   const footerServiceLinks = {
     'Managed IT Services': 'IT',
     'Web and App Development': 'Web', 
