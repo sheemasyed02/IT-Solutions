@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
           index++;
           setTimeout(type, 150); // Typing speed
       }
-      // Uncomment below to make it loop
+      
       
       else {
           setTimeout(() => {
