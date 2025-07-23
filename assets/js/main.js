@@ -1,12 +1,4 @@
-/**
-* Template Name: Gp
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-* Updated: Aug 15 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-(function() {
+(function() { 
   "use strict";
 
   /**
@@ -227,7 +219,6 @@ document.addEventListener('DOMContentLoaded', function() {
           index++;
           setTimeout(type, 150); // Typing speed
       }
-      // Uncomment below to make it loop
       
       else {
           setTimeout(() => {
@@ -385,7 +376,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Footer
 document.addEventListener('DOMContentLoaded', function() {
-  // Footer service links functionality similar to hero section
   const footerServiceLinks = {
     'Managed IT Services': 'IT',
     'Web and App Development': 'Web', 
